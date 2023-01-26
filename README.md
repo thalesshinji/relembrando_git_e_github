@@ -1,2 +1,7 @@
-# relembrando_git_e_github
-Repositório criado seguindo o projeto da DIO, para relembrar comando Git.
+# Projeto de Git/Github da DIO
+
+Repositório criado seguindo o projeto da DIO, para relembrar comandos Git.
+
+## Links Úteis 
+
+[Sintaxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/)
